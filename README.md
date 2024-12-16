@@ -23,13 +23,6 @@ Check out the live version of the app here: [Shopping Cart](https://shopping-car
 - **Hosting**: Vercel
 
 ---
-
-## Screenshot
-
-(./picture//Screenshot%20(33).png)
-
----
-
 ## Installation
 
 To run this project locally:
