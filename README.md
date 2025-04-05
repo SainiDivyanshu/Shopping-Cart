@@ -63,12 +63,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 
 For any questions or feedback, feel free to reach out:
